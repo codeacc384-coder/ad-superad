@@ -1,0 +1,6 @@
+{
+  "name": "CoreHR Admin - Super Admin SaaS Console",
+  "description": "Enterprise Super Admin SaaS Management Platform for multi-tenant organizations, subscriptions, billing, users, system health, security, and global configuration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
